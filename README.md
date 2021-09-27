@@ -41,7 +41,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [  :white_check_mark:] 5-2: _JavaScript - Trabalhando com elementos_
 - [  :white_check_mark:] 5-3: _JavaScript - Eventos_
 - [  :white_check_mark:] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Bonus - Projeto - Meme Generator]()_
 - [  :white_check_mark:] 5-6: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-015-a-project-pixels-art/pull/55)_
 - [  :white_check_mark:] 5-7: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-015-a-project-todo-list/pull/40)_
 
