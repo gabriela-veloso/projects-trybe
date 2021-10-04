@@ -80,6 +80,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ :white_check_mark: ] 10-2: _Jest - Testes Assíncronos_
 - [ :white_check_mark: ] 10-3: _Jest - Simulando comportamentos_
 - [:white_check_mark:  ] 10-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/tryber/sd-015-a-project-jest/pull/8)_
+- [:white_check_mark:  ] 10-5: _[Projeto Bônus - Encerramento do Módulo de Fundamentos do Desenvolvimento Web - API externa](https://github.com/Tamyrescso/api_pexels)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
