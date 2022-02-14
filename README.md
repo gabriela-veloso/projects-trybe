@@ -129,37 +129,34 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 18: React & Context API
 
 - [  :white_check_mark:]  18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [  :white_check_mark:] 18-2: _React Hooks - useState e useContext_
+- [  :white_check_mark:] 18-3: _React Hooks - useEffect e Hooks customizados_
+- [  :white_check_mark:] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-015-a-project-starwars-planets-search/pull/3)_
 
 ##### Bloco 19: Projeto Final de Front-end
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+- [  :white_check_mark:] 19-1: _[Projeto - App de Receitas](https://github.com/tryber/sd-015-a-project-recipes-app/pull/325)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
-
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [  :white_check_mark:] 20-1: _Banco de dados SQL_
+- [  :white_check_mark:] 20-2: _Encontrando dados em um banco de dados_
+- [  :white_check_mark:] 20-3: _Filtrando dados de forma específica_
+- [  :white_check_mark:] 20-4: _Manipulando tabelas_
+- [  :white_check_mark:] 20-5: _[Projeto - All For One](https://github.com/tryber/sd-015-a-mysql-all-for-one/pull/108)_
 
 ##### Bloco 21: Bancos de dados relacionais
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
+- [  :white_check_mark:] 21-1: _Funções mais usadas no SQL_
+- [  :white_check_mark:] 21-2: _Descomplicando JOINs e UNIONs_
 
 ##### Bloco 22: Bancos de dados relacionais
 
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalização, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _[Projeto - One For All]()_
+- [  :white_check_mark:] 22-1: _Transformando ideias em um modelo de banco de dados_
+- [  :white_check_mark:] 22-2: _Normalização, Formas Normais e Dumps_
+- [  :white_check_mark:] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
+- [  :white_check_mark:] 22-3: _[Projeto - One For All](https://github.com/tryber/sd-015-a-mysql-one-for-all/pull/61)_
 
 ##### Bloco 23: Introdução - NoSQL
 
